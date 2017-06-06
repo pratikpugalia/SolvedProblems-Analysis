@@ -1,4 +1,6 @@
-# 1) TALCA(CC)
+**The main aim of this repository is to act as a diary that notes small tricks picked up while solving problems in prepartion for ACM-ICPC.**
+
+## 1) TALCA(CC)
 
 [Link](https://www.codechef.com/problems/TALCA)
 
